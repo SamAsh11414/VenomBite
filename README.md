@@ -1,5 +1,7 @@
 # Python-Virus--VenomBite
-I simple virus script in python, DON'T USE UNLESS YOU ARE EXPERIENCED WITH A CODING LANGUAGE AND KNOW WHAT YOU ARE DOING
+I simple virus script in python, 
+
+*DON'T USE UNLESS YOU ARE EXPERIENCED WITH A CODING LANGUAGE AND KNOW WHAT YOU ARE DOING*
 
 I would not use this unless you want to look through every python file on your computer to make sure nothing of it is left. Have fun 
 
