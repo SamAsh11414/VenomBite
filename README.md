@@ -8,9 +8,9 @@ I would not use this in a main directory unless you want to look through every p
 How to use in a controlled manner:
 1. Make sure the files located on github are inside of a folder, I designed the virus not to leave the folder that it is placed in, it will only attack files located within the folder.
 2. Open an IDE software, VS code is recommended because that is where it was created
-3. Deside which program you would like to infect by draging it out of the file called "Test_Subjects" and into the same folder as "main.py"
+3. Deside which program you would like to infect by going into the folder "Test_Subjects" and draging out one or more of the files into the same folder as "main.py"
 4. Run the "main.py" file in your IDE. 
-5. Open your test subject to find it has been infected with the VenomBite.
+5. Open your test subject to find it has been infected with the VenomBite. If you try to run one of the files, the virus will run along with the file.
 
 Some things to note:
 - I lowered the effect it would have on the files so that the risk to users (If the virus is used incorrectly) would be insignificant. So don't expect any fireworks haha.
