@@ -39,7 +39,7 @@ for script in python_scripts:
 
 # Payload deployment
 print("Now you done goofed up\n")
-print("<*_*>")
+print("____   ____                          __________.__  __          \n\   \ /   /____   ____   ____   _____\______   \__|/  |_  ____  \n \   Y   // __ \ /    \ /  _ \ /     \|    |  _/  \   __\/ __ \ \n  \     /\  ___/|   |  (  <_> )  Y Y  \    |   \  ||  | \  ___/ \n   \___/  \___  >___|  /\____/|__|_|  /______  /__||__|  \___  >\n              \/     \/             \/       \/              \/")
 
 ### END OF BAD IDEA ###
 
