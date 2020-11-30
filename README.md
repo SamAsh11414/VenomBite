@@ -1,5 +1,5 @@
 # VenomBite
-I simple virus script in python, 
+A simple virus script in python, 
 
 *DON'T USE UNLESS YOU ARE EXPERIENCED WITH A CODING LANGUAGE AND KNOW WHAT YOU ARE DOING*
 
